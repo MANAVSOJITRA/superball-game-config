@@ -1,0 +1,61 @@
+{
+  "paddleData": [
+    {
+      "paddleID": "Default_1",
+      "gemCost": 0
+    },
+    {
+      "paddleID": "Default_2",
+      "gemCost": 220
+    },
+    {
+      "paddleID": "Default_3",
+      "gemCost": 320
+    },
+    {
+      "paddleID": "Default_4",
+      "gemCost": 420
+    },
+    {
+      "paddleID": "Default_5",
+      "gemCost": 500
+    }
+  ],
+  "ballData": [
+    {
+      "ballID": "Default_1",
+      "gemCost": 0,
+      "coinCost": 0
+    },
+    {
+      "ballID": "Default_2",
+      "gemCost": 0,
+      "coinCost": 0
+    },
+    {
+      "ballID": "Default_3",
+      "gemCost": 55,
+      "coinCost": 60
+    },
+    {
+      "ballID": "Default_4",
+      "gemCost": 90,
+      "coinCost": 100
+    },
+    {
+      "ballID": "FX_1",
+      "gemCost": 130,
+      "coinCost": 140
+    },
+    {
+      "ballID": "FX_2",
+      "gemCost": 165,
+      "coinCost": 180
+    },
+    {
+      "ballID": "FX_3",
+      "gemCost": 200,
+      "coinCost": 220
+    }
+  ]
+}
