@@ -1,61 +1,61 @@
 {
-  "master_enabled": true,
-  "active_provider": "admob",
-  "failover_to_unity": true,
-  "preinit_fallback": true,
-  "cb_threshold": 4,
-  "cb_cooldown_seconds": 60,
-  "privacy_policy_url": "https://doodoogames08.blogspot.com/2025/01/privacy-policy.html",
-  "terms_of_use_url": "https://doodoogames08.blogspot.com/2025/01/terms-of-use.html",
-  "android_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "ios_app_id": "ca-app-pub-XXXXXXXX~ZZZZZZZZ",
-  "unity_android_game_id": "6005101",
-  "unity_ios_game_id": "6005100",
-  "unity_test_mode": true,
-  "admob_android_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_android_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-  "admob_ios_interstitial_id": "ca-app-pub-3940256099942544/4411468910",
-  "admob_ios_rewarded_id": "ca-app-pub-3940256099942544/1712485313",
-  "unity_android_interstitial_id": "Interstitial_Android",
-  "unity_android_rewarded_id": "Rewarded_Android",
-  "unity_ios_interstitial_id": "Interstitial_iOS",
-  "unity_ios_rewarded_id": "Rewarded_iOS",
-  "placements": [
-    {
-      "id": "Free_Rewards_Rewarded",
-      "enabled": true,
-      "format": "rewarded",
-      "frequency_cap_seconds": 300
-    },
-    {
-      "id": "MINIGAMES_HITREWARDS_REWARDED",
-      "enabled": true,
-      "format": "rewarded",
-      "frequency_cap_seconds": 60
-    },
-    {
-      "id": "MINIGAMES_CLAWMACHINE_REWARDED",
-      "enabled": true,
-      "format": "rewarded",
-      "frequency_cap_seconds": 60
-    },
-    {
-      "id": "CHEST_TIME_SKIP_REWARDED",
-      "enabled": true,
-      "format": "rewarded",
-      "frequency_cap_seconds": 120
-    },
-    {
-      "id": "GET_MORE_LIFE_REWARDED",
-      "enabled": true,
-      "format": "rewarded",
-      "frequency_cap_seconds": 30
-    },
-    {
-      "id": "BOOSTER_PURCHASE_REWARDED",
-      "enabled": true,
-      "format": "rewarded",
-      "frequency_cap_seconds": 60
-    }
-  ]
+    "master_enabled": true,
+    "active_provider": "admob",
+    "failover_to_unity": true,
+    "preinit_fallback": true,
+    "cb_threshold": 4,
+    "cb_cooldown_seconds": 60,
+    "privacy_policy_url": "https://doodoogames08.blogspot.com/2025/01/privacy-policy.html",
+    "terms_of_use_url": "https://doodoogames08.blogspot.com/2025/01/terms-of-use.html",
+    "android_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "ios_app_id": "ca-app-pub-XXXXXXXX~ZZZZZZZZ",
+    "unity_android_game_id": "6005101",
+    "unity_ios_game_id": "6005100",
+    "unity_test_mode": false,
+    "admob_android_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_android_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+    "admob_ios_interstitial_id": "ca-app-pub-3940256099942544/4411468910",
+    "admob_ios_rewarded_id": "ca-app-pub-3940256099942544/1712485313",
+    "unity_android_interstitial_id": "Interstitial_Android",
+    "unity_android_rewarded_id": "Rewarded_Android",
+    "unity_ios_interstitial_id": "Interstitial_iOS",
+    "unity_ios_rewarded_id": "Rewarded_iOS",
+    "placements": [
+        {
+            "id": "Free_Rewards_Rewarded",
+            "enabled": true,
+            "format": "rewarded",
+            "frequency_cap_seconds": 300
+        },
+        {
+            "id": "MINIGAMES_HITREWARDS_REWARDED",
+            "enabled": true,
+            "format": "rewarded",
+            "frequency_cap_seconds": 60
+        },
+        {
+            "id": "MINIGAMES_CLAWMACHINE_REWARDED",
+            "enabled": true,
+            "format": "rewarded",
+            "frequency_cap_seconds": 60
+        },
+        {
+            "id": "CHEST_TIME_SKIP_REWARDED",
+            "enabled": true,
+            "format": "rewarded",
+            "frequency_cap_seconds": 120
+        },
+        {
+            "id": "GET_MORE_LIFE_REWARDED",
+            "enabled": true,
+            "format": "rewarded",
+            "frequency_cap_seconds": 30
+        },
+        {
+            "id": "BOOSTER_PURCHASE_REWARDED",
+            "enabled": true,
+            "format": "rewarded",
+            "frequency_cap_seconds": 60
+        }
+    ]
 }
