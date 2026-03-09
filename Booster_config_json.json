@@ -1,46 +1,46 @@
 {
-  "boosters": [
-    {
-      "boosterType": "Magnet",
-      "requiredAds": 2,
-      "gemCost": 20,
-      "description": "Use Magnet after a miss to quickly <color=#FBD000>re-aim and hit</color> tricky blocks or chests."
-    },
-    {
-      "boosterType": "Shield",
-      "requiredAds": 2,
-      "gemCost": 20,
-      "description": "Use Shield to <color=#FBD000>protect the ball</color> — shields catch missed shots so you don't immediately lose."
-    },
-    {
-      "boosterType": "Double Ball_Converter",
-      "requiredAds": 3,
-      "gemCost": 25,
-      "description": "2X Ball creates extra balls from every active ball. <color=#FBD000>Each ball splits into two,</color> increasing hits and chaos."
-    },
-    {
-      "boosterType": "Tripple Ball_Converter",
-      "requiredAds": 3,
-      "gemCost": 25,
-      "description": "3X Ball creates extra balls from every active ball. <color=#FBD000>Each ball splits into three,</color> increasing hits and chaos."
-    },
-    {
-      "boosterType": "Bullet Gun",
-      "requiredAds": 3,
-      "gemCost": 35,
-      "description": "<color=#FBD000>fires bullets continuously. </color>Bullets smash obstacles and clear a path."
-    },
-    {
-      "boosterType": "Paddle Increaser",
-      "requiredAds": 3,
-      "gemCost": 35,
-      "description": "Use Wide Paddle to <color=#FBD000>Control the ball </color>and prevent drops."
-    },
-    {
-      "boosterType": "Life",
-      "requiredAds": 4,
-      "gemCost": 40,
-      "description": "Get one <color=#FBD000>extra life at the start of the level.</color> This helps you survive mistakes and keep playing longer."
-    }
-  ]
+    "boosters": [
+        {
+            "boosterType": "Magnet",
+            "requiredAds": 2,
+            "gemCost": 20,
+            "description": "Use Magnet after a miss to quickly <color=#FBD000>re-aim and hit</color> tricky blocks or chests."
+        },
+        {
+            "boosterType": "Shield",
+            "requiredAds": 2,
+            "gemCost": 20,
+            "description": "Use Shield to <color=#FBD000>protect the ball</color> — shields catch missed shots so you don’t immediately lose."
+        },
+        {
+            "boosterType": "DoubleBall_Converter",
+            "requiredAds": 3,
+            "gemCost": 25,
+            "description": "2X Ball creates extra balls from every active ball. <color=#FBD000>Each ball splits into two,</color> increasing hits and chaos."
+        },
+        {
+            "boosterType": "TrippleBall_Converter",
+            "requiredAds": 3,
+            "gemCost": 25,
+            "description": "3X Ball creates extra balls from every active ball. <color=#FBD000>Each ball splits into three,</color> increasing hits and chaos."
+        },
+        {
+            "boosterType": "BulletGun",
+            "requiredAds": 3,
+            "gemCost": 35,
+            "description": "<color=#FBD000>fires bullets continuously.</color> Bullets smash obstacles and clear a path."
+        },
+        {
+            "boosterType": "PaddleIncreaser",
+            "requiredAds": 3,
+            "gemCost": 35,
+            "description": "Use Wide Paddle to <color=#FBD000>Control the ball</color> and prevent drops."
+        },
+        {
+            "boosterType": "Life",
+            "requiredAds": 4,
+            "gemCost": 40,
+            "description": "Get one <color=#FBD000>extra life at the start of the level.</color> This helps you survive mistakes and keep playing longer."
+        }
+    ]
 }
