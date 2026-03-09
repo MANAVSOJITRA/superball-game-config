@@ -1,78 +1,84 @@
 {
-  "products": [
-    {
-      "id": "com.doodoogames.super.ball.brick.blaster.gems_small",
-      "gems": 100,
-      "enabled": true,
-      "priceMultiplier": 1
-    },
-    {
-      "id": "com.doodoogames.super.ball.brick.blaster.gems_medium",
-      "gems": 300,
-      "enabled": true,
-      "priceMultiplier": 1
-    },
-    {
-      "id": "com.doodoogames.super.ball.brick.blaster.gems_large",
-      "gems": 700,
-      "enabled": true,
-      "priceMultiplier": 1
-    },
-    {
-      "id": "com.doodoogames.super.ball.brick.blaster.gems_mega",
-      "gems": 1500,
-      "enabled": true,
-      "priceMultiplier": 1
-    },
-    {
-      "id": "com.doodoogames.super.ball.brick.blaster.gems_epic",
-      "gems": 3500,
-      "enabled": true,
-      "priceMultiplier": 1
-    },
-    {
-      "id": "com.doodoogames.super.ball.brick.blaster.gems_legendary",
-      "gems": 8000,
-      "enabled": true,
-      "priceMultiplier": 1
-    }
-  ],
-  "coinOffers": [
-    {
-      "id": "offer_1",
-      "title": "Some Coins",
-      "coinAmount": 30,
-      "gemCost": 150
-    },
-    {
-      "id": "offer_2",
-      "title": "Purse of Coins",
-      "coinAmount": 100,
-      "gemCost": 400
-    },
-    {
-      "id": "offer_3",
-      "title": "Pouch Of Coins",
-      "coinAmount": 250,
-      "gemCost": 900
-    },
-    {
-      "id": "offer_4",
-      "title": "Bag Of Coins",
-      "coinAmount": 600,
-      "gemCost": 2000
-    },
-    {
-      "id": "offer_5",
-      "title": "Crate of Coins",
-      "coinAmount": 1500,
-      "gemCost": 4500
-    },
-    {
-      "id": "offer_6",
-      "title": "Vault of Coins",
-      "coinAmount": 4000,
-      "gemCost": 10000
-    }
-  ]
+    "coinOffers": [
+        {
+            "id": "offer_1",
+            "title": "Some Coins",
+            "coinAmount": 500,
+            "gemCost": 50,
+            "bonusAmount": 0
+        },
+        {
+            "id": "offer_2",
+            "title": "Purse of Coins",
+            "coinAmount": 1300,
+            "gemCost": 120,
+            "bonusAmount": 100
+        },
+        {
+            "id": "offer_3",
+            "title": "Pouch Of Coins",
+            "coinAmount": 3000,
+            "gemCost": 250,
+            "bonusAmount": 500
+        },
+        {
+            "id": "offer_4",
+            "title": "Bag Of Coins",
+            "coinAmount": 8000,
+            "gemCost": 600,
+            "bonusAmount": 2000
+        },
+        {
+            "id": "offer_5",
+            "title": "Crate of Coins",
+            "coinAmount": 22500,
+            "gemCost": 1500,
+            "bonusAmount": 7500
+        },
+        {
+            "id": "offer_6",
+            "title": "Vault of Coins",
+            "coinAmount": 65000,
+            "gemCost": 4000,
+            "bonusAmount": 25000
+        }
+    ],
+    "products": [
+        {
+            "id": "com.doodoogames.superball.brick.blaster.gems_small",
+            "gems": 100,
+            "enabled": true,
+            "priceMultiplier": 1
+        },
+        {
+            "id": "com.doodoogames.superball.brick.blaster.gems_medium",
+            "gems": 300,
+            "enabled": true,
+            "priceMultiplier": 1
+        },
+        {
+            "id": "com.doodoogames.superball.brick.blaster.gems_large",
+            "gems": 700,
+            "enabled": true,
+            "priceMultiplier": 1
+        },
+        {
+            "id": "com.doodoogames.superball.brick.blaster.gems_mega",
+            "gems": 1500,
+            "enabled": true,
+            "priceMultiplier": 1
+        },
+        {
+            "id": "com.doodoogames.superball.brick.blaster.gems_epic",
+            "gems": 3500,
+            "enabled": true,
+            "priceMultiplier": 1
+        },
+        {
+            "id": "com.doodoogames.superball.brick.blaster.gems_legendary",
+            "gems": 8000,
+            "enabled": true,
+            "priceMultiplier": 1
+        }
+    ]
 }
