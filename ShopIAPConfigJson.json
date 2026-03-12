@@ -45,37 +45,37 @@
     ],
     "products": [
         {
-            "id": "com.doodoogames.superball.brick.blaster.gems_small",
+            "id": "gems_small",
             "gems": 100,
             "enabled": true,
             "priceMultiplier": 1
         },
         {
-            "id": "com.doodoogames.superball.brick.blaster.gems_medium",
+            "id": "gems_medium",
             "gems": 300,
             "enabled": true,
             "priceMultiplier": 1
         },
         {
-            "id": "com.doodoogames.superball.brick.blaster.gems_large",
+            "id": "gems_large",
             "gems": 700,
             "enabled": true,
             "priceMultiplier": 1
         },
         {
-            "id": "com.doodoogames.superball.brick.blaster.gems_mega",
+            "id": "gems_mega",
             "gems": 1500,
             "enabled": true,
             "priceMultiplier": 1
         },
         {
-            "id": "com.doodoogames.superball.brick.blaster.gems_epic",
+            "id": "gems_epic",
             "gems": 3500,
             "enabled": true,
             "priceMultiplier": 1
         },
         {
-            "id": "com.doodoogames.superball.brick.blaster.gems_legendary",
+            "id": "gems_legendary",
             "gems": 8000,
             "enabled": true,
             "priceMultiplier": 1
