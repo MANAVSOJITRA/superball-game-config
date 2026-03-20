@@ -25,37 +25,37 @@
             "id": "Free_Rewards_Rewarded",
             "enabled": true,
             "format": "rewarded",
-            "frequency_cap_seconds": 300
+            "frequency_cap_seconds": 20
         },
         {
             "id": "MINIGAMES_HITREWARDS_REWARDED",
             "enabled": true,
             "format": "rewarded",
-            "frequency_cap_seconds": 60
+            "frequency_cap_seconds": 10
         },
         {
             "id": "MINIGAMES_CLAWMACHINE_REWARDED",
             "enabled": true,
             "format": "rewarded",
-            "frequency_cap_seconds": 60
+            "frequency_cap_seconds": 10
         },
         {
             "id": "CHEST_TIME_SKIP_REWARDED",
             "enabled": true,
             "format": "rewarded",
-            "frequency_cap_seconds": 120
+            "frequency_cap_seconds": 10
         },
         {
             "id": "GET_MORE_LIFE_REWARDED",
             "enabled": true,
             "format": "rewarded",
-            "frequency_cap_seconds": 30
+            "frequency_cap_seconds": 5
         },
         {
             "id": "BOOSTER_PURCHASE_REWARDED",
             "enabled": true,
             "format": "rewarded",
-            "frequency_cap_seconds": 60
+            "frequency_cap_seconds": 5
         }
     ]
 }
