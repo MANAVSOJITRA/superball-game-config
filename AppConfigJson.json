@@ -1,6 +1,6 @@
 {
     "master_enabled": true,
-    "active_provider": "unity",
+    "active_provider": "admob",
     "failover_to_unity": true,
     "preinit_fallback": true,
     "cb_threshold": 4,
