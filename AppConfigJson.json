@@ -7,10 +7,8 @@
   "cb_cooldown_seconds": 60,
   "privacy_policy_url": "https://doodoogames08.blogspot.com/2025/01/privacy-policy.html",
   "terms_of_use_url": "https://doodoogames08.blogspot.com/2025/01/terms-of-use.html",
-
   "minimum_required_version": "1.0.0",
-  "store_redirect_url": "market://details?id=com.doodoogames.superball.brick.blaster",
-
+  "store_redirect_url": "https://play.google.com/apps/testing/com.doodoogames.superball.brick.blaster",
   "android_app_id": "ca-app-pub-3940256099942544~3347511713",
   "ios_app_id": "ca-app-pub-XXXXXXXX~ZZZZZZZZ",
   "unity_android_game_id": "6005101",
